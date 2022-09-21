@@ -1,6 +1,6 @@
 # learngetx
 
-This is a sample app for learning concept getx as final project this Article Published on virgool https://urlis.net/jmg5f
+This is a sample app for learning concept getx as final project this Article Published on virgool https://vrgl.ir/a2IWq
 
 ## Getting Started
 
