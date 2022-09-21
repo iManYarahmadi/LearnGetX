@@ -1,6 +1,6 @@
 # learngetx
 
-A new Flutter project.
+This is a sample app for learning concept getx as final project this Article Published on virgool https://urlis.net/jmg5f
 
 ## Getting Started
 
